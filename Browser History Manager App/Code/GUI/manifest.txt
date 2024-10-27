@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: browserhistorymanager.Main
+Implementation-Title: Browser History Manager
+Implementation-Version: 1.0
+Implementation-Vendor: Sahil
