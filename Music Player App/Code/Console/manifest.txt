@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: src.playlistmanager.Main
+Implementation-Title: Music Player
+Implementation-Version: 1.0
+Implementation-Vendor: Sahil
